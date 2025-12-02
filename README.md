@@ -18,3 +18,4 @@ Once your secrets are set, try making changes: edit code, update documentation, 
 * 🧹 Code Janitor — deleted more code than added
 * 📚 Documentarian — touched README
 * 🧪 Test Driven — changed any test file
+* Testing my GitHub Actions setup 🙂
